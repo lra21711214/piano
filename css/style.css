@@ -1,0 +1,61 @@
+.kenbans{
+	width:100px;
+	height:300px;
+	border:inset 3px;
+	float:left;
+	background-color: white
+	/*border-radius:50%;*/
+}
+#moji{
+	font-size: 100px;
+	text-align: center;
+	color: white;
+	font-family: "英語フォント","ＭＳ ゴシック",serif;
+
+}
+#kenban9{
+	width:50px;
+	height:170px;	
+	position: absolute;
+	background-color: black;
+	left: 87px;
+}
+#kenban10{
+	width:50px;
+	height:170px;	
+	position: absolute;
+	background-color: black;
+	left: 193px;
+}
+#kenban11{
+	width:50px;
+	height:170px;	
+	position: absolute;
+	background-color: black;
+	left: 406px;
+}
+#kenban12{
+	width:50px;
+	height:170px;	
+	position: absolute;
+	background-color: black;
+	left: 511px;
+}
+#kenban13{
+	width:50px;
+	height:170px;	
+	position: absolute;
+	background-color: black;
+	left: 617px;
+}
+
+#kenban_style{
+	width: 850px;
+	margin: 0 auto;
+	position: relative;
+	top:70px;
+}
+body{
+	background-color: black;
+}
+
